@@ -4,10 +4,10 @@ and also testing all javascript methods '
 ## How to run this Vite project 
 ### use this command
 ```javascript
-// npm run dev
+npm run dev
 ```
 ### check this link to get the complite guid of a vite project 
-[Link Text](https://vitejs.dev/guide/)
+[Vite guid](https://vitejs.dev/guide/)
 
 
 
